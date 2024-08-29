@@ -1,0 +1,199 @@
+{
+  "pokemon": [
+    {
+      "name": "Bulbasaur",
+      "type": "Grass/Poison",
+      "image": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/4/43/latest/20190406170624/Bulbasaur.png/75px-Bulbasaur.png",
+      "evolutions": [
+        {
+          "name": "Ivysaur",
+          "type": "Grass/Poison",
+          "image": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/8/86/latest/20190406151903/Ivysaur.png/110px-Ivysaur.png"
+        },
+        {
+          "name": "Venusaur",
+          "type": "Grass/Poison",
+          "image": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/b/be/latest/20160309230456/Venusaur.png/170px-Venusaur.png"
+        }
+      ]
+    },
+    {
+      "name": "Charmander",
+      "type": "Fire",
+      "image": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/5/56/latest/20200307023245/Charmander.png/200px-Charmander.png",
+      "evolutions": [
+        {
+          "name": "Charmeleon",
+          "type": "Fire",
+          "image": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/f/fb/latest/20200411222755/Charmeleon.png/110px-Charmeleon.png"
+        },
+        {
+          "name": "Charizard",
+          "type": "Fire/Flying",
+          "image": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/9/95/latest/20160817212623/Charizard.png/170px-Charizard.png"
+        }
+      ]
+    },
+    {
+      "name": "Squirtle",
+      "type": "Water",
+      "image": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/e/e3/latest/20160309230820/Squirtle.png/75px-Squirtle.png",
+      "evolutions": [
+        {
+          "name": "Wartortle",
+          "type": "Water",
+          "image": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/d/d7/latest/20200307022248/Wartortle.png/110px-Wartortle.png"
+        },
+        {
+          "name": "Blastoise",
+          "type": "Water",
+          "image": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/4/41/latest/20200411222955/Blastoise.png/170px-Blastoise.png"
+        }
+      ]
+    },
+    {
+      "name": "Pikachu",
+      "type": "Electric",
+      "image": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/7/77/latest/20150621181250/Pikachu.png/90px-Pikachu.png",
+      "evolutions": [
+        {
+          "name": "Raichu",
+          "type": "Electric",
+          "image": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/3/34/latest/20160815220038/Raichu.png/130px-Raichu.png"
+        }
+      ]
+    },
+    {
+      "name": "Jigglypuff",
+      "type": "Normal/Fairy",
+      "image": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/a/af/latest/20150110232910/Jigglypuff.png/110px-Jigglypuff.png",
+      "evolutions": [
+        {
+          "name": "Wigglytuff",
+          "type": "Normal/Fairy",
+          "image": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/f/f1/latest/20220905202016/Wigglytuff.png/150px-Wigglytuff.png"
+        }
+      ]
+    },
+    {
+      "name": "Gengar",
+      "type": "Ghost/Poison",
+      "image": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/f/f8/latest/20200428203046/Gengar.png/130px-Gengar.png",
+      "evolutions": []
+    },
+    {
+      "name": "Machop",
+      "type": "Fighting",
+      "image": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/2/2b/latest/20230327203924/Machop.png/200px-Machop.png",
+      "evolutions": [
+        {
+          "name": "Machoke",
+          "type": "Fighting",
+          "image": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/c/ca/latest/20200411223604/Machoke.png/130px-Machoke.png"
+        },
+        {
+          "name": "Machamp",
+          "type": "Fighting",
+          "image": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/b/bf/latest/20230614200701/Machamp.png/170px-Machamp.png"
+        }
+      ]
+    },
+    {
+      "name": "Vulpix",
+      "type": "Fire",
+      "image": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/8/8d/latest/20230613015324/Vulpix.png/95px-Vulpix.png",
+      "evolutions": [
+        {
+          "name": "Ninetales",
+          "type": "Fire",
+          "image": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/9/98/latest/20230613015530/Ninetales.png/150px-Ninetales.png"
+        }
+      ]
+    },
+    {
+      "name": "Geodude",
+      "type": "Rock/Ground",
+      "image": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/1/12/latest/20230620061559/Geodude.png/150px-Geodude.png",
+      "evolutions": [
+        {
+          "name": "Graveler",
+          "type": "Rock/Ground",
+          "image": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/b/b6/latest/20230620061639/Graveler.png/150px-Graveler.png"
+        },
+        {
+          "name": "Golem",
+          "type": "Rock/Ground",
+          "image": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/c/ce/latest/20230620061645/Golem.png/150px-Golem.png"
+        }
+      ]
+    },
+    {
+      "name": "Abra",
+      "type": "Psychic",
+      "image": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/f/f6/latest/20200411223435/Abra.png/90px-Abra.png",
+      "evolutions": [
+        {
+          "name": "Kadabra",
+          "type": "Psychic",
+          "image": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/b/b0/latest/20220912175715/Kadabra.png/130px-Kadabra.png"
+        },
+        {
+          "name": "Alakazam",
+          "type": "Psychic",
+          "image": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/f/f5/latest/20230716211853/Alakazam.png/150px-Alakazam.png"
+        }
+      ]
+    },
+    {
+      "name": "Machop",
+      "type": "Fighting",
+      "image": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/2/2b/latest/20230327203924/Machop.png/200px-Machop.png",
+      "evolutions": [
+        {
+          "name": "Machoke",
+          "type": "Fighting",
+          "image": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/c/ca/latest/20200411223604/Machoke.png/130px-Machoke.png"
+        },
+        {
+          "name": "Machamp",
+          "type": "Fighting",
+          "image": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/b/bf/latest/20230614200701/Machamp.png/170px-Machamp.png"
+        }
+      ]
+    },
+    {
+      "name": "Ditto",
+      "type": "Normal",
+      "image": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/0/03/latest/20230717180418/Ditto.png/130px-Ditto.png",
+      "evolutions": []
+    },
+    {
+      "name": "Eevee",
+      "type": "Normal",
+      "image": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/f/f2/latest/20150621181400/Eevee.png/90px-Eevee.png",
+      "evolutions": [
+        {
+          "name": "Vaporeon",
+          "type": "Water",
+          "image": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/f/fc/latest/20210627185640/Vaporeon.png/100px-Vaporeon.png"
+        },
+        {
+          "name": "Jolteon",
+          "type": "Electric",
+          "image": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/1/1e/latest/20210627205409/Jolteon.png/100px-Jolteon.png"
+        },
+        {
+          "name": "Flareon",
+          "type": "Fire",
+          "image": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/1/17/latest/20210628144841/Flareon.png/100px-Flareon.png"
+        }
+      ]
+    },
+    {
+      "name": "Snorlax",
+      "type": "Normal",
+      "image": "https://images.wikidexcdn.net/mwuploads/wikidex/0/0b/Snorlax.png",
+      "evolutions": []
+    }
+  ]
+}
