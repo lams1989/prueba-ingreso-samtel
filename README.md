@@ -22,7 +22,7 @@ Sigue estos pasos para configurar y ejecutar la aplicación localmente:
 
    ```bash
    git clone https://github.com/lams1989/prueba-ingreso-samtel.git
-   cd pokemon-viewer
+   cd prueba-ingreso-samtel
 
 
 2. **Instalar Dependencias**  
